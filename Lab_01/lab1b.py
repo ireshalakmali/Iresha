@@ -15,4 +15,5 @@ user_age = input("Enter your age:")
 user_food = input("Enter your favorite food:")
 #this statement is for display name,age,favorite food of the user
 print (user_name + " is " + user_age + " years old and loves to eat " + user_food + "!")
+
 print("Good luck with the course!")
