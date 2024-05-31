@@ -1,7 +1,7 @@
 '''
 Name: Iresha Lakmali
 Student ID: 162279236
-Description : This is my first proramme
+
 
 '''
 print ("Welcome to PRG600!")

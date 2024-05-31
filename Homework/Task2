@@ -1,0 +1,8 @@
+floor = int(input("What is the floor : "))
+
+if (floor<13):
+    actualFloor = floor-1
+    print("The floor is", actualFloor)
+else:
+    actualFloor=floor
+    print(actualFloor)

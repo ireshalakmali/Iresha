@@ -1,0 +1,27 @@
+#print("hi")
+#print(abs(-105))
+#distance = input ("Enter the distance you came so far : ")
+# Convert a length in millimeter to meter & centimeter
+#new = int(distance)
+#x = new//100
+#y = new%100
+
+distance = "1000"
+id = int(distance)
+print(id)
+
+
+#print("Distance is equal to " + str(x) + " meters "  + str(y) + " centimeters ")
+#print(max(13,8,65,9,76))
+#print("_" * 50)
+
+name = "John Smith"
+print(name.upper())
+
+print("He said \"Hello\"")
+print("“C:\\Temp\\Secret.txt“")
+print("*\n**\n***\n****\n")
+price = 1.21997
+print("Price per liter %.2f" %(price))
+
+print("Price per liter %10.2f" %(price))
