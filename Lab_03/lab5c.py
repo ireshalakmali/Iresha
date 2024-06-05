@@ -8,16 +8,27 @@ print("I'm thinking of an animal. Can you guess what it is?")
 
 while True : 
     user_guess= input("Enter a letter or a guess. Press enter to quit:")
-    if (user_guess == ""):
-        break
-    if(user_guess == secret) :
+
+    if user_guess == secret :
         print ("You win!")
         break
 
-    if user_guess in secret:
-        print ("Yes, my word contains that letter.")
-    else: 
-        print("Sorry, my word doesn't contain that letter.")
+    if user_guess != secret:
+         print ("Sorry, that's not it.") 
+    
+    elif user_guess == "":
+        break
+
+    elif user_guess in secret:
+         print ("Yes, my word contains that letter")
+   
+    else:
+         print("Sorry, my word doesn't contain that letter.")
+   
+ 
+          
+    
+
 
 
 
