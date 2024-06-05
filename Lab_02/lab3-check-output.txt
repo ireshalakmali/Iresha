@@ -1,0 +1,26 @@
+INFO:root:logging test
+INFO:root:Test Run: 2024-05-31 23:37:04.931092
+ERROR:root:Enter the answer to 12 + 14, or press 's' to skip: Next question...
+Enter the answer to 23 + 8, or press 's' to skip: Question skipped. 0 points awarded.
+Enter the answer to 30 + 13, or press 's' to skip: Enter the answer to 17 + 27, or press 's' to skip: Traceback (most recent call last):
+  File "C:\Users\PC\Desktop\Iresha\Lab_02\lab3a.py", line 99, in <module>
+    print("You received a grade of " + str(percentage)+ "%.")
+                                           ^^^^^^^^^^
+NameError: name 'percentage' is not defined
+
+WARNING:root:lab3a.py: Failures encountered.
+INFO:root:done.
+INFO:root:lab3b.py: test successful.
+INFO:root:lab3b.py 0b5081687aa543dc10f5b31550b5a6ee
+INFO:root:done.
+INFO:root:lab3c.py: test successful.
+INFO:root:lab3c.py 0c6a3c6badc2913a633db5c1da4ec688
+INFO:root:done.
+INFO:root:lab3d.py: test successful.
+INFO:root:lab3d.py 5613e9a633dc8a39ab0c997d225ce983
+INFO:root:done.
+WARNING:root:lab3e.py: Failures encountered.
+INFO:root:done.
+INFO:root:challenge3.py: test successful.
+INFO:root:challenge3.py d2276329fd6d0bd12e470429456ef270
+INFO:root:done.
