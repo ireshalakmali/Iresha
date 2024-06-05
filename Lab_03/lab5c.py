@@ -12,6 +12,7 @@ while True :
         break
     if(user_guess == secret) :
         print ("You win!")
+        break
 
     if user_guess in secret:
         print ("Yes, my word contains that letter.")
