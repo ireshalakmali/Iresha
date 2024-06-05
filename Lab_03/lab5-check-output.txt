@@ -1,0 +1,16 @@
+INFO:root:logging test
+INFO:root:Test Run: 2024-06-05 12:59:58.484802
+INFO:root:lab5a.py: test successful.
+INFO:root:lab5a.py 99541b05d785feb316e0c37c36e15aa5
+INFO:root:done.
+INFO:root:lab5b.py: test successful.
+INFO:root:lab5b.py 4701f192d1e0b9eb1a88f23485c32532
+INFO:root:done.
+WARNING:root:lab5c.py: Failures encountered.
+INFO:root:done.
+WARNING:root:lab5d.py: Failures encountered.
+INFO:root:done.
+WARNING:root:lab5e.py: Failures encountered.
+INFO:root:done.
+WARNING:root:challenge5.py: Failures encountered.
+INFO:root:done.
